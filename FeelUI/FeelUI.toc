@@ -5,3 +5,13 @@
 ## SavedVariables:
 ## SavedVariablesPerCharacter:
 ## X-Website:
+
+Engine\Load_Engine.lua
+Libraries\Load_Libraries.xml
+Settings\Load_Settings.xml
+Assets\Load_Assets.xml
+Language\Load_Language.xml
+Core\Load_Core.xml
+Modules\Load_Modules.xml
+
+Developer\Load_Developer.xml
