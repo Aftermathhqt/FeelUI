@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: FeelUI
+## Version: 1.0
+## Author: Natias, Aftermathh
+## SavedVariables:
+## SavedVariablesPerCharacter:
+## X-Website:
