@@ -14,4 +14,8 @@ Language\Load_Language.xml
 Core\Load_Core.xml
 Modules\Load_Modules.xml
 
+# Loading Themes
+Themes\Aftermathh\Load_Aftermathh.xml
+Theme\ntsmcrp\Load_ntsmcrp.xml
+
 Developer\Load_Developer.xml

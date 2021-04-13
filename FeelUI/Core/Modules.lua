@@ -34,7 +34,7 @@ function UI:RegisterModule(Name)
 		return self.Modules[Name]
 	end
 
-	local Module = CreateFrame('Frame', 'Feel_' .. Name, UIParent, 'BackdropTemplate')
+	local Module = CreateFrame('Frame', 'FeelUI_' .. Name, UIParent, 'BackdropTemplate')
 
 	Module.Name = Name
 	Module.Hook = Hook
@@ -81,7 +81,7 @@ end
 
 -- Init
 local OnEvent = function(self, event, addon)
-	if (event == "PLAYER_LOGIN") then
+	if (event == 'PLAYER_LOGIN') then
 		UI:LoadModules()
 
 		self:UnregisterEvent(event)

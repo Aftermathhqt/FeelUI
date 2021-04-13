@@ -1,3 +1,9 @@
-<Ui xmlns="http://www.blizzard.com/wow/ui/">
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+	<Script file='LibAnim-2.07\LibAnim-2.07.lua' />
+	<Script file='LibAnimFadeInOut-1.0\LibAnimFadeInOut-1.0.lua' />
 
+	<Script file='LibStub\LibStub.lua' />
+	<Script file='LibAnimGainLoss-1.0\LibAnimGainLoss-1.0.lua' />
+	<Script file='LibAnimGainLoss-1.0.lua\LibAnimSmooth-1.0.lua' />
+	<Script file='LibSharedMedia-3.0\LibSharedMedia-3.0.lua' />
 </Ui>
